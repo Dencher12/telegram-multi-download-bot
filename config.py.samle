@@ -1,0 +1,4 @@
+# change and rename this file to config.py
+token = "your bot token"
+save_folder = 'your folder for downloaded files'
+user_name = 'your name in telegram'
